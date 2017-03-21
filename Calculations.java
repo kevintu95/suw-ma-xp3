@@ -27,6 +27,3 @@ class Calculations {
         return firstNumber / secondNumber;
     }
 }
-
-
-KURWA
