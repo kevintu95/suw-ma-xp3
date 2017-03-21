@@ -26,5 +26,4 @@ class Calculations {
         }
         return firstNumber / secondNumber;
     }
-    nuttn
 }
